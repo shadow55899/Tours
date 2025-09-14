@@ -26,6 +26,7 @@
 - [Overview](#overview)
 - [Why Tours?](#why-tours)
 - [App Features](#app-features)
+- [Filters Available](#filters-available)
 
 ---
 
@@ -79,5 +80,6 @@ Once the **Tours** app is running, you can:
 - **Duration** – Filter by number of days.  
 - **Rating** – Show only tours above a certain star rating.  
 - **Season** – Filter by best travel season (e.g., Summer, Winter).
+
 
 
