@@ -47,13 +47,39 @@ It integrates platform-specific configurations, plugin management, and resource 
 - **Code Quality & Analysis** – Static analysis and linting configurations to maintain high code standards.
 
 ---
+## App Features
 
-## Getting Started
+Once the **Tours** app is running, you can:
 
-### Prerequisites
-This project requires the following dependencies:
+- **Browse Tours & Destinations**  
+  Explore a curated list of travel destinations with images, descriptions, and ratings.
 
-- **Programming Language:** Dart  
-- **Package Manager:** Pub, CMake, Gradle
+- **Search & Filter**  
+  - Filter by **location**, **price range**, **duration**, or **category** (e.g., adventure, cultural, family-friendly).  
+  - Sort results by **popularity**, **rating**, or **newest**.
+
+- **Detailed Tour Pages**  
+  View itineraries, highlights, included services, and customer reviews.
+
+- **Interactive Map View**  
+  See tour locations on a map with zoom and navigation support.
+
+- **Favorites & Wishlist**  
+  Save tours you like for quick access later.
+
+- **Booking Flow**  
+  Select dates, number of travelers, and proceed to booking.
+
+- **Dark Mode Support**  
+  Enjoy a visually comfortable experience with theme switching.
 
 ---
+
+## Filters Available
+
+- **Destination** – Choose specific cities or countries.  
+- **Category** – Adventure, Relaxation, Cultural, Nature, Luxury, Budget.  
+- **Price Range** – Set minimum and maximum budget.  
+- **Duration** – Filter by number of days.  
+- **Rating** – Show only tours above a certain star rating.  
+- **Season** – Filter by best travel season (e.g., Summer, Winter).
